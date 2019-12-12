@@ -8,13 +8,15 @@ body {
   background: $gray; // Using this variable
 }
 
-.btn {
+#btn {
   background-color: blue;
   border: none;
   color: white;
   text-align:center;
+  padding: 20px;
+  border-radius: 25%;
 }
 
-.form {
+#form {
   display: flex;
 }
